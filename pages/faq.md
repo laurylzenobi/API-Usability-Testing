@@ -5,7 +5,7 @@ title: "FAQ"
 
 ### 1. Where should we find developers to participate in usability sessions for our APIs?
   
-The best source for useful feedback of your API program is from developers who already use your APIs.  It's best if you have already been engaging with your developer community so that you have some names in mind to ask to participate. However, if you don't know who your users are, one option is to put up a notice on your developer hub that solicits volunteers.  Like this (GRAY - can we put an example or a screenshot?)
+The best source for useful feedback of your API program is from developers who already use your APIs.  It's best if you have already been engaging with your developer community so that you have some names in mind to ask to participate. However, if you don't know who your users are, one option is to put up a notice on your developer hub that solicits volunteers. 
   
 Alternatively, you can engage with the developer community in your area and ask for volunteers there.  For instance, in DC, there is a vibrant [API meetup](http://www.meetup.com/DC-Web-API-User-Group/){:target="_blank"} that would be good to visit in search of participants.  Or use Twitter, listserves or social networks.
 
